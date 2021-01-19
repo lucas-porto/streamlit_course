@@ -124,5 +124,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#vscode
+# vscode
 .vscode
+
+# venv
+venv_covid/
+
+#
